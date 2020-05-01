@@ -1,2 +1,2 @@
-# Lab Viromics & Bacterial Genomics 
+#Viromics & Bacterial Genomics Lab
 
